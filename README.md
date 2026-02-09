@@ -32,4 +32,4 @@ Data Science student at Universidad del Norte. Driven by the challenge of turnin
 * 💬 Let's talk about: Data Science, Cybersecurity, or Music Theory.
 
 ---
-*"Data is the new oil, but only if you know how to refine it."*
+### *"Data is the new oil, but only if you know how to refine it."*
