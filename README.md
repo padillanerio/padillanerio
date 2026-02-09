@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Camilo | Data Science Student
+# 👋 Hello, I'm Camilo | Data Science Student
 
 Data Science student at Universidad del Norte. Driven by the challenge of turning complex data into actionable insights and exploring the intersection between AI and Cybersecurity.
 
