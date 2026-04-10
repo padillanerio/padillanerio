@@ -29,7 +29,6 @@ Data Science student. Driven by the challenge of turning complex data into actio
 ### 📬 Reach out
 * 📫 **LinkedIn:** [www.linkedin.com/in/camilo-padilla-8150b4369]
 * 📧 **Email:** []
-* 💬 Let's talk about: Data Science, Cybersecurity, or Music.
 
 ---
 ### *"Data is the new oil, but only if you know how to refine it."*
