@@ -14,7 +14,7 @@ Data Science student. Driven by the challenge of turning complex data into actio
 
 * 🛡️ Cybersecurity (Skill Acquisition): Exploring the basics of network security and data protection. I treat this as a vital "side-quest" to ensure the data I handle is secure by design.
 
-* 🛠️ Practical Implementation: I am committed to turning every concept I learn at Uninorte into a documented GitHub repository. My goal is to bridge the gap between classroom theory and production-level code.
+* 🛠️ Practical Implementation: I am committed to turning every concept I learn into a documented GitHub repository. My goal is to bridge the gap between classroom theory and production-level code.
 
 ### 💻 Technical Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,7 +23,7 @@ Data Science student. Driven by the challenge of turning complex data into actio
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🎨 Hobbies & Interests
-* 🎻 **Musician:** I play Guitar, Piano, and Violin (in progress). Music gives me the discipline I apply to code.
+* 🎻 **Musician:** I play Guitar, Piano.
 * 🌍 **Global Context:** I enjoy analyzing International Politics and Economics.
 
 ### 📬 Reach out
