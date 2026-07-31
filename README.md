@@ -6,7 +6,7 @@ Data Science student. Driven by the challenge of turning complex data into actio
 
 ### 🔍 Who am I?
 * 📍 Based in Barranquilla, Colombia.
-* 🎓 3rd-semester Data Science Undergraduate.
+* 🎓 4rd-semester Data Science Undergraduate.
 * 🛡️ Cybersecurity enthusiast & aspiring Data Strategist.
 
 ### 🛠️ My Growth Path
@@ -28,7 +28,7 @@ Data Science student. Driven by the challenge of turning complex data into actio
 
 ### 📬 Reach out
 * 📫 **LinkedIn:** [www.linkedin.com/in/camilo-padilla-8150b4369]
-* 📧 **Email:** []
+* 📧 **Email:** [kamv.tech@proton.me]
 
 ---
 ### *"Data is the new oil, but only if you know how to refine it."*
