@@ -57,11 +57,9 @@
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="Data and AI" />
 
-<br/>
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<img height="48" src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" title="Jupyter" />
+<img height="48" src="https://cdn.simpleicons.org/pandas/ffffff" alt="pandas" title="pandas" />
+<img height="48" src="https://cdn.simpleicons.org/numpy/4DABCF" alt="NumPy" title="NumPy" />
 
 **Tools**
 
