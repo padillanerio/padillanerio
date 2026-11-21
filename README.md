@@ -51,11 +51,17 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,typescript,js,html,css,cs,c" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css" alt="Languages" />
 
 **Data & AI**
 
-<img src="https://skillicons.dev/icons?i=jupyter,pandas,numpy,tensorflow,pytorch" alt="Data and AI" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="Data and AI" />
+
+<br/>
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Tools**
 
