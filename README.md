@@ -51,11 +51,10 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,java,html" alt="Languages" />
 
 **Data & AI**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="Data and AI" />
 
 <img height="48" src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" title="Jupyter" />
 <img height="48" src="https://cdn.simpleicons.org/pandas/ffffff" alt="pandas" title="pandas" />
@@ -63,7 +62,7 @@
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,postgres" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postgres" alt="Tools" />
 
 </div>
 
